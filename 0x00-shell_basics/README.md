@@ -1,1 +1,1 @@
-my readme
+Scripts manipulating files in the shell
