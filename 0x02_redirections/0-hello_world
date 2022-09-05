@@ -1,0 +1,3 @@
+#!/bin/bash
+Hello,World
+ls > 0-hello_world
